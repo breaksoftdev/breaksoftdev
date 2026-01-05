@@ -66,13 +66,7 @@ Here are some highlights from my portfolio, showcasing my ability to tackle comp
 - **Key Features**: Ultra-low latency, high-resolution streaming, and cross-device compatibility.
 - **Technologies**: Unity, Agora SDK, Android-specific optimizations.
 
-## 📊 GitHub Stats
 
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haseeb0016&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
-![Muhammad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb0016&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  
-![Muhammad's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=haseeb0016&theme=vue-dark&hide_border=true)
-
-*(Note: Replace 'haseeb0016' with your actual GitHub username if different for accurate stats.)*
 
 ## 🔍 What I'm Currently Working On
 
