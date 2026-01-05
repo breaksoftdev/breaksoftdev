@@ -87,8 +87,8 @@ I'm actively seeking **freelance Unity projects**, **remote game development rol
 
 ## 📫 Get in Touch
 
-- **Email**: [muhammadhaseeb0016@gmail.com](mailto:muhammadhaseeb0016@gmail.com)
-- **LinkedIn**: [Muhammad Haseeb](https://www.linkedin.com/in/haseeb0016/)
+- **Email**: [tauseefahmad050@gmail.com](mailto:Tauseefahmad050@gmail.com)
+- **LinkedIn**: [Tauseef Ahmad](https://www.linkedin.com/in/tadev/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
