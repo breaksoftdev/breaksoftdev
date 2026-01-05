@@ -32,6 +32,7 @@ I've honed a diverse skill set across various domains in game and interactive de
 ### 🎥 Video Streaming
 ![Agora](https://img.shields.io/badge/Agora-0078D4?style=for-the-badge&logo=agora&logoColor=white)
 
+<!--
 ## 🏆 Notable Projects
 
 Here are some highlights from my portfolio, showcasing my ability to tackle complex challenges and deliver innovative solutions:
@@ -66,7 +67,7 @@ Here are some highlights from my portfolio, showcasing my ability to tackle comp
 - **Key Features**: Ultra-low latency, high-resolution streaming, and cross-device compatibility.
 - **Technologies**: Unity, Agora SDK, Android-specific optimizations.
 
-
+-->
 
 ## 🔍 What I'm Currently Working On
 
